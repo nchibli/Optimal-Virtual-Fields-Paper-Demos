@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Chibli
+    given-names: Nagham
+    orcid: https://orcid.org/
+authors:
+  - family-names: Genet
+    given-names: Martin
+    orcid: https://orcid.org/0000-0003-2204-201X
+authors:
+  - family-names: Imperiale
+    given-names: Sébastien
+    orcid: https://orcid.org/0000-0001-5698-9653
+title: "Curl-Based Reconstruction Paper Demos"
+url: https://github.com/nchibli/Optimal-Virtual-Fields-Paper-Demos
