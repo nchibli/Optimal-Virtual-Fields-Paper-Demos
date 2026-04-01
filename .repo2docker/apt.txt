@@ -1,6 +1,6 @@
 ################################################################################
 ###                                                                          ###
-### Created by Martin Genet                                                  ###
+### Created by Nagham Chibli                                                ###
 ###                                                                          ###
 ### École Polytechnique, Palaiseau, France                                   ###
 ###                                                                          ###
