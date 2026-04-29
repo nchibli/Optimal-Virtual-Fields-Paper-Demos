@@ -3,6 +3,9 @@ on:
 
 jobs:
   build_and_deploy_jupyter_book:
+    environment:
+      name: github-pages
+
     runs-on: ubuntu-latest
 
     permissions:
@@ -15,7 +18,8 @@ jobs:
 
     - name: Build Jupyter Book
       run: |
-        pip install -U jupyter-book
+        pip install -U "jupyter-book<2.0.0" "pydata-sphinx-theme==0.15.3" "sphinx-book-theme<1.1.0" "sphinx<7"
+
         jupyter-book clean .
         jupyter-book build .
 
