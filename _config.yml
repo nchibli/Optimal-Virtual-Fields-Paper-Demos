@@ -2,7 +2,7 @@
 
 title: Welcome to [Chibli, Genet & Imperiale. In revision.]'s demos!
 author: Nagham Chibli, Martin Genet, Sébastien Imperiale
-logo: logo.png
+#logo: logo.png
 copyright: "2025"
 only_build_toc_files: true
 
